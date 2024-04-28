@@ -1,2 +1,2 @@
 # SEMP
-This repository is about semp class assignments
+This repository is about Software Engineering Mini Project class assignments
